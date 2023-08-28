@@ -54,7 +54,7 @@ const Navhead = () => {
           <a className="btn btn-ghost normal-case text-3xl font-bold z-10">
             sharkPC
           </a>
-          <img src={wing} alt="" className="h-12 absolute z-0 left-10 -top-2" />
+          <img src={wing} alt="" className="h-12 absolute z-0 left-10 -top-2 animate-pulse" />
         </div>
       </div>
       <div className="navbar-center hidden lg:flex">
